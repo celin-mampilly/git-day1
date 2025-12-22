@@ -2,7 +2,7 @@
 
 This line was added in a feature branch.
 
-This line was added in conflict-A branch.
+This line was added after resolving conflict between conflict-A and conflict-B.
 
 
 
