@@ -8,5 +8,11 @@ Day 5: Practicing Pull Requests and reviews.
 
 Day 7: experimenting with git stash.
 
+Day 8: first messy commit
+
+Day 8: second messy commit
+
+Day 8: third messy commit
+
 
 
